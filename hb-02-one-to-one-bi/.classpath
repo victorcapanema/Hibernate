@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-11">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/Hibernate"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/MySQLConnector"/>
+	<classpathentry kind="lib" path="C:/Users/UNIVERSO/Downloads/javax.activation-1.2.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/UNIVERSO/Downloads/jaxb-api-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/UNIVERSO/Downloads/jaxb-core-2.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/UNIVERSO/Downloads/jaxb-impl-2.3.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
